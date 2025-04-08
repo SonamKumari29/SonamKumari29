@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonam Kumari</h1>
-<h3 align="center">Frontend Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Frontend Developer | Tech Enthusiast</h3>
 
 ### 💫 About Me:
 I love transforming ideas into seamless digital experiences. With a strong foundation in React.js, Next.js, and UI/UX, I focus on building fast, scalable, and user-friendly applications. Always exploring new technologies, I enjoy solving complex problems, optimizing performance, and creating intuitive designs. When I'm not coding, you'll find me mentoring, contributing to tech communities, or brainstorming the next big project. 🚀
