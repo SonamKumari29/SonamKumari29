@@ -10,13 +10,11 @@ I turn ideas into smooth digital experiences using React.js, Next.js, and UI/UX.
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://sonam-kumari.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
+
   <a href="https://www.linkedin.com/in/sonam-kumari-084641257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/that_textrovert">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
