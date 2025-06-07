@@ -3,10 +3,12 @@
 </p>
 
 ### 💫 About Me:
-I turn ideas into smooth digital experiences using React.js, Next.js, and UI/UX. I love building fast, user-friendly apps and exploring new technologies.
+- 🌱 I’m learning advanced AI integration, FastAPI, and WebRTC  
+- 👯 I’m open to collaborate on AI, Next.js, and real-time projects  
+- 🤝 I’m seeking help with backend development and AI deployment  
+- 💬 I’m happy to talk about React, Python, AI, and full-stack development  
 
 ---
-
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://sonam-kumari.vercel.app/">
