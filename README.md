@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_header.png" alt="Hi, I'm Sonam Kumari" />
+  <img src="header.jpg" alt="Hi, I'm Sonam Kumari" />
 </p>
 
 ### 💫 About Me:
