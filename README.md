@@ -52,7 +52,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamKumari29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
   </a> 
 
-  <a href="https://github.com/SonamKumari29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonamKumari29&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
-  </a>
+ 
 </p>
