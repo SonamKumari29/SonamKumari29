@@ -3,10 +3,9 @@
 </p>
 
 ### 💫 About Me:
-- 🌱 I’m learning advanced AI integration
-- 👯 I’m open to collaborate on AI, Next.js, and real-time projects  
-- 🤝 I’m seeking help with backend development and AI deployment  
-- 💬 I’m happy to talk about React, Python, AI, and full-stack development  
+- 🌱 Exploring advanced AI integration, NLP design, and chatbot development
+- 👯 Open to collaborate on Next.js, real-time apps, and AI-powered solutions 
+- 🤝 Always learning and growing in backend development, API integration, and deployment
 
 ---
 ### 🌐 Connect with Me:
