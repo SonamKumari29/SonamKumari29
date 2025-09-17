@@ -1,55 +1,50 @@
 <p align="center">
   <img src="header.jpg" alt="Hi, I'm Sonam Kumari" />
 </p>
+<h3 align="center">Aspiring SDE | Learning Backend | Exploring AI | Writing What I Learn</h3>
 
-### 💫 About Me:
-- 🌱 Exploring advanced AI integration, NLP design, and chatbot development
-- 👯 Open to collaborate on Next.js, real-time apps, and AI-powered solutions 
-- 🤝 Always learning and growing in backend development, API integration, and deployment
-
----
-### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://sonam-kumari.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/sonam-kumari-084641257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://sonam-kumari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://medium.com/@kumarisonam2909"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sonam-kumari-084641257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💻 Tech Stack:
+### About Me
+- 🌱 Learning backend fundamentals while exploring AI.
+- ✍️ Writing concise Medium blogs to document what I actually understand (learning in public).
+- 🤝 Open to collaborate on small React / Next.js practice builds or beginner-friendly backend + AI experiments — feel free to connect.
+---
+
+### Tech Stack 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0000FF.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,next,tailwind,bootstrap,mysql,firebase,mongodb,postman" />
+</p>
+
+**Programming Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS  
+**Web Technologies & Frameworks:** React.js, Next.js, Tailwind CSS, Bootstrap  
+**Databases:** MySQL, Firebase, MongoDB  
+**Development Tools & Platforms:** Figma, Postman, Copado, Kore.ai  
+
+
+---
+
+### GitHub Stats (Progress Indicators)
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=SonamKumari29&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamKumari29&theme=react-dark&hide_border=true&radius=6" />
 </p>
 
 ---
-### 📊 GitHub Stats:
-<p align="center"> 
-  <a href="https://github.com/SonamKumari29">
-    <img src="https://github-readme-stats.vercel.app/api?username=SonamKumari29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  </a> 
 
-  <a href="https://github.com/SonamKumari29">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamKumari29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-  </a> 
-
- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SonamKumari29&style=for-the-badge&color=blueviolet" />
 </p>
+
+<p align="center">Thanks for visiting — feel free to connect 👋</p>
