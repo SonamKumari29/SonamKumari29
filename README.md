@@ -5,8 +5,9 @@
 
 <p align="center">
   <a href="https://sonam-kumari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://medium.com/@kumarisonam2909"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sonam-kumari-084641257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@kumarisonam2909"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 </p>
 
 ---
@@ -33,9 +34,7 @@
 
 ### GitHub Stats (Progress Indicators)
 
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=SonamKumari29&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamKumari29&theme=react-dark&hide_border=true&radius=6" />
